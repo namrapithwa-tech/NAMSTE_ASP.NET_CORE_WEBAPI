@@ -20,8 +20,8 @@ with Dummy Records Insert Query, Also Included All Stored Procedure Like GetAll 
   -> Data has CityRepositry.cs file has a Configuratons and all methods for CRUD operation Like GetAll() , GetByID() , Insert() , Update() and Delete()
 
 # Run Project 
-*// Program.cs
--//Register CityRepository in the dependency injection container.
+- // Program.cs
+- //Register CityRepository in the dependency injection container.
   builder.Services.AddScoped<StateRepository>();
 -> Testing the Endpoints
   - Run your project.
