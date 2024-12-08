@@ -23,7 +23,7 @@ with Dummy Records Insert Query, Also Included All Stored Procedure Like GetAll 
 - // Program.cs
 - // Register CityRepository in the dependency injection container.
   builder.Services.AddScoped<StateRepository>();
-**-> Testing the Endpoints**
+  - **-> Testing the Endpoints**
   - Run your project.
     - Use Swagger or an API client (like Postman) to test the CityController endpoints:
     - GET /api/City - Retrieve all City.
