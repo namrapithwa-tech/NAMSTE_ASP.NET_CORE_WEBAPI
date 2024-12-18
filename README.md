@@ -44,7 +44,7 @@ with Dummy Records Insert Query, Also Included All Stored Procedure Like GetAll 
    
 5. **Testing Endpoints**:
    - Use Swagger or an API client (e.g., Postman) to test the endpoints.
-  - **-> Testing the Endpoints**
+  - **Testing the Endpoints**
   - Run your project.
     - Use Swagger or an API client (like Postman) to test the CityController endpoints:
     - GET /api/City - Retrieve all City.
