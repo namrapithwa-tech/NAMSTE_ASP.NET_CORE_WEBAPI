@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "JLNCtCE8o4w=",
+  "dgSpecHash": "L2r3KWAvoZw=",
   "success": true,
   "projectFilePath": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\CoffeeShopWEBAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namra\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\namra\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\namra\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\namra\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\namra\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\namra\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\namra\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.11\\microsoft.aspnetcore.jsonpatch.8.0.11.nupkg.sha512",
     "C:\\Users\\namra\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.11\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.11.nupkg.sha512",

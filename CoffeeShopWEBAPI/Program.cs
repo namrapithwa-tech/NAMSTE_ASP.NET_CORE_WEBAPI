@@ -1,9 +1,13 @@
-using CoffeeShopWEBAPI.Data; // chnage
+using CoffeeShopWEBAPI.Data;
+using FluentValidation.AspNetCore;
+using System.Reflection; 
+// chnage
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddControllers().AddFluentValidation(c => c.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly()));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddScoped<CityRepository>(); // change
