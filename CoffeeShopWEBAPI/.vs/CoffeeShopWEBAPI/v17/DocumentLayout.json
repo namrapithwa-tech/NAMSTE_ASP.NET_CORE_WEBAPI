@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\namste_asp.net_core_webapi\\coffeeshopwebapi\\validations\\cityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|solutionrelative:validations\\cityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\namste_asp.net_core_webapi\\coffeeshopwebapi\\model\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|solutionrelative:model\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\namste_asp.net_core_webapi\\coffeeshopwebapi\\validations\\statevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|solutionrelative:validations\\statevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\namste_asp.net_core_webapi\\coffeeshopwebapi\\validations\\countryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|solutionrelative:validations\\countryvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\namste_asp.net_core_webapi\\coffeeshopwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|d:\\b.tech all sem data\\sem-6(4)\\adv.net\\net_all_git_hub\\namste_asp.net_core_webapi\\coffeeshopwebapi\\data\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7F9193-7FC0-423C-B936-673276C722F1}|CoffeeShopWEBAPI.csproj|solutionrelative:data\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CityModel.cs",
-              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Model\\CityModel.cs",
-              "RelativeDocumentMoniker": "Model\\CityModel.cs",
-              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Model\\CityModel.cs",
-              "RelativeToolTip": "Model\\CityModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T03:08:59.485Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CityValidation.cs",
-              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Validations\\CityValidation.cs",
-              "RelativeDocumentMoniker": "Validations\\CityValidation.cs",
-              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Validations\\CityValidation.cs",
-              "RelativeToolTip": "Validations\\CityValidation.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Data\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Data\\CityRepository.cs",
+              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Data\\CityRepository.cs",
+              "RelativeToolTip": "Data\\CityRepository.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAswAsAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T03:08:54.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StateValidation.cs",
-              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Validations\\StateValidation.cs",
-              "RelativeDocumentMoniker": "Validations\\StateValidation.cs",
-              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Validations\\StateValidation.cs",
-              "RelativeToolTip": "Validations\\StateValidation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T02:56:22.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T02:38:07.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountryValidation.cs",
-              "DocumentMoniker": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Validations\\CountryValidation.cs",
-              "RelativeDocumentMoniker": "Validations\\CountryValidation.cs",
-              "ToolTip": "D:\\B.Tech All Sem Data\\Sem-6(4)\\ADV.NET\\NET_ALL_GIT_HUB\\NAMSTE_ASP.NET_CORE_WEBAPI\\CoffeeShopWEBAPI\\Validations\\CountryValidation.cs",
-              "RelativeToolTip": "Validations\\CountryValidation.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T03:46:07.582Z",
+              "WhenOpened": "2025-01-21T14:31:03.693Z",
               "EditorCaption": ""
             }
           ]
